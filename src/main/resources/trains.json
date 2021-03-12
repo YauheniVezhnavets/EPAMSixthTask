@@ -1,0 +1,44 @@
+{
+  "trains": [
+    {
+      "id": 1,
+      "trainDirection": "SOUTH"
+    },
+    {
+      "id": 2,
+      "trainDirection": "SOUTH"
+    },
+    {
+      "id": 3,
+      "trainDirection": "NORTH"
+    },
+    {
+      "id": 4,
+      "trainDirection": "SOUTH"
+    },
+    {
+      "id": 5,
+      "trainDirection": "NORTH"
+    },
+    {
+      "id": 6,
+      "trainDirection": "SOUTH"
+    },
+    {
+      "id": 7,
+      "trainDirection": "NORTH"
+    },
+    {
+      "id": 8,
+      "trainDirection": "SOUTH"
+    },
+    {
+      "id": 9,
+      "trainDirection": "SOUTH"
+    },
+    {
+      "id": 10,
+      "trainDirection": "NORTH"
+    }
+  ]
+}
